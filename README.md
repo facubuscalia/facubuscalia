@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=facubuscalia&show_icons=true&locale=en" alt="facubuscalia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facubuscalia&" alt="github.com/facubuscalia" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facubuscalia&" alt="facubuscalia" /></p>
